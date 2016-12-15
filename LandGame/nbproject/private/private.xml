@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/web/error.jsp</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/dbjuego/Soleusuarios.java</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/conf/persistence.xml</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/dbservlet/ServletCookies.java</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/queryclass/Played.java</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/dbjuego/Soleresultados.java</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/service/ResultadoService.java</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/queryclass/Ranking.java</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/dbservlet/DBServlet.java</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/listener/DBListener.java</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/web/index.jsp</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/queryclass/OnlinePlayer.java</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/service/UsuariosService.java</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/web/menu.jsp</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/dbservlet/ServletResultado.java</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/web/META-INF/context.xml</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/web/juego.jsp</file>
+        </group>
+    </open-files>
+</project-private>
