@@ -34,37 +34,37 @@
             }
             function clckl1() {
                 document.getElementById('li1').style.color = 'white';
-                document.getElementById("li2").style.color = 'green';
-                document.getElementById("li3").style.color = 'green';
-                document.getElementById("li4").style.color = 'green';
-                document.getElementById("li5").style.color = 'green';
+                document.getElementById("li2").style.color = '#FF9509';
+                document.getElementById("li3").style.color = '#FF9509';
+                document.getElementById("li4").style.color = '#FF9509';
+                document.getElementById("li5").style.color = '#FF9509';
             }
             function clckl2() {
-                document.getElementById('li1').style.color = 'green';
+                document.getElementById('li1').style.color = '#FF9509';
                 document.getElementById("li2").style.color = 'white';
-                document.getElementById("li3").style.color = 'green';
-                document.getElementById("li4").style.color = 'green';
-                document.getElementById("li5").style.color = 'green';
+                document.getElementById("li3").style.color = '#FF9509';
+                document.getElementById("li4").style.color = '#FF9509';
+                document.getElementById("li5").style.color = '#FF9509';
             }
             function clckl3() {
-                document.getElementById('li1').style.color = 'green';
-                document.getElementById("li2").style.color = 'green';
+                document.getElementById('li1').style.color = '#FF9509';
+                document.getElementById("li2").style.color = '#FF9509';
                 document.getElementById("li3").style.color = 'white';
-                document.getElementById("li4").style.color = 'green';
-                document.getElementById("li5").style.color = 'green';
+                document.getElementById("li4").style.color = '#FF9509';
+                document.getElementById("li5").style.color = '#FF9509';
             }
             function clckl4() {
-                document.getElementById('li1').style.color = 'green';
-                document.getElementById("li2").style.color = 'green';
-                document.getElementById("li3").style.color = 'green';
+                document.getElementById('li1').style.color = '#FF9509';
+                document.getElementById("li2").style.color = '#FF9509';
+                document.getElementById("li3").style.color = '#FF9509';
                 document.getElementById("li4").style.color = 'white';
-                document.getElementById("li5").style.color = 'green';
+                document.getElementById("li5").style.color = '#FF9509';
             }
             function clckl5() {
-                document.getElementById('li1').style.color = 'green';
-                document.getElementById("li2").style.color = 'green';
-                document.getElementById("li3").style.color = 'green';
-                document.getElementById("li4").style.color = 'green';
+                document.getElementById('li1').style.color = '#FF9509';
+                document.getElementById("li2").style.color = '#FF9509';
+                document.getElementById("li3").style.color = '#FF9509';
+                document.getElementById("li4").style.color = '#FF9509';
                 document.getElementById("li5").style.color = 'white';
             }
 

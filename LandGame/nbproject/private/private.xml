@@ -5,6 +5,7 @@
         <group>
             <file>file:/C:/Pau/Acces%20a%20dades/LandGame/web/error.jsp</file>
             <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/dbjuego/Soleusuarios.java</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/web/js/lunar.js</file>
             <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/conf/persistence.xml</file>
             <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/dbservlet/ServletCookies.java</file>
             <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/queryclass/Played.java</file>
@@ -14,6 +15,7 @@
             <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/dbservlet/DBServlet.java</file>
             <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/listener/DBListener.java</file>
             <file>file:/C:/Pau/Acces%20a%20dades/LandGame/web/index.jsp</file>
+            <file>file:/C:/Pau/Acces%20a%20dades/LandGame/web/css/style.css</file>
             <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/queryclass/OnlinePlayer.java</file>
             <file>file:/C:/Pau/Acces%20a%20dades/LandGame/web/WEB-INF/web.xml</file>
             <file>file:/C:/Pau/Acces%20a%20dades/LandGame/src/java/service/UsuariosService.java</file>

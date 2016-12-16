@@ -55,6 +55,7 @@ public class DBServlet extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
 
+        //AIXÒ SOBRA!!!! S'HA D'AGAFAR DES DE DBLISTENER
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("LandGamePU");
         EntityManager em = emf.createEntityManager();
         UsuariosService us = new UsuariosService(em);
@@ -99,7 +100,14 @@ public class DBServlet extends HttpServlet {
      * @throws ServletException if a servlet-specific error occurs
      * @throws IOException if an I/O error occurs
      */
-    @Override
+    @Override /**
+     * Handles the HTTP <code>POST</code> method.
+     *
+     * @param request servlet request
+     * @param response servlet response
+     * @throws ServletException if a servlet-specific error occurs
+     * @throws IOException if an I/O error occurs
+     */
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
 
